@@ -546,7 +546,7 @@ p {
 }
 
 .ctp-choose-image {
-  background-image: url("..//public/img//choose.png");
+  background-image: url("../public/img/choose.png");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
