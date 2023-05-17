@@ -16,7 +16,7 @@ function Personal() {
 
                             <div className="row justify-content-center">
                                 <Col>
-                                    <div className="shadow-inner2">
+                                    <div className="shadow-inner2 col-12">
                                         <div className="ctp-services-card">
                                             <h3>
                                                 <div className="icon">
@@ -30,7 +30,7 @@ function Personal() {
                                     </div>
                                 </Col>
                                 <Col>
-                                    <div className="shadow-inner2">
+                                    <div className="shadow-inner2 col-12">
                                         <div className="ctp-services-card">
                                             <h3>
                                                 <div className="icon">
@@ -43,7 +43,7 @@ function Personal() {
                                     </div>
                                 </Col>
                                 <Col>
-                                    <div className="shadow-inner2">
+                                    <div className="shadow-inner2 col-12">
                                         <div className="ctp-services-card">
                                             <h3>
                                                 <div className="icon">
@@ -56,7 +56,7 @@ function Personal() {
                                     </div>
                                 </Col>
                                 <Col>
-                                    <div className="shadow-inner2">
+                                    <div className="shadow-inner2 col-12">
                                         <div className="ctp-services-card">
                                             <h3>
                                                 <div className="icon">
